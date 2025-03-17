@@ -13,7 +13,7 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=Peng-DX&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-2022.vercel.app?user=Peng-DX&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=Peng-DX&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
